@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+outputs/master_df.csv
+outputs/risk_df.csv
+
+data/processed/dashboard_data.csv
+data/processed/master_stock_data.csv
+data/processed/stock_features.csv
