@@ -1,4 +1,17 @@
 # 📈 Stock Price Prediction & Risk Scoring Dashboard
+## Dashboard Screenshots
+
+### KPI Overview
+
+![KPI Dashboard](screenshots/KPI.png)
+
+### Risk vs Return Analysis
+
+![Risk vs Return](screenshots/Risk%20vs%20Return%20Analysis.png)
+
+### Stock Risk Index (SRI)
+
+![SRI Dashboard](screenshots/SRI.png)
 
 ## Project Overview
 
